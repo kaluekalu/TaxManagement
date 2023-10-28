@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Model\bin\Debug\net7.0\TaskManagementAPI.Model.deps.json
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Model\bin\Debug\net7.0\TaskManagementAPI.Model.dll
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Model\bin\Debug\net7.0\TaskManagementAPI.Model.pdb
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Model\obj\Debug\net7.0\TaskManagementAPI.Model.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Model\obj\Debug\net7.0\TaskManagementAPI.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Model\obj\Debug\net7.0\TaskManagementAPI.Model.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Model\obj\Debug\net7.0\TaskManagementAPI.Model.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Model\obj\Debug\net7.0\TaskManagementAPI.Model.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Model\obj\Debug\net7.0\TaskManagementAPI.Model.dll
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Model\obj\Debug\net7.0\refint\TaskManagementAPI.Model.dll
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Model\obj\Debug\net7.0\TaskManagementAPI.Model.pdb
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Model\obj\Debug\net7.0\ref\TaskManagementAPI.Model.dll
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Model\bin\Debug\net7.0\TaskManagementAPI.Model.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Model\obj\Debug\net7.0\TaskManagementAPI.Model.genruntimeconfig.cache

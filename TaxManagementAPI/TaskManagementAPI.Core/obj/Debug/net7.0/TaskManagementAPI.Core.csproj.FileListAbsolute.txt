@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Core\bin\Debug\net7.0\TaskManagementAPI.Core.deps.json
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Core\bin\Debug\net7.0\TaskManagementAPI.Core.dll
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Core\bin\Debug\net7.0\TaskManagementAPI.Core.pdb
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Core\obj\Debug\net7.0\TaskManagementAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Core\obj\Debug\net7.0\TaskManagementAPI.Core.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Core\obj\Debug\net7.0\TaskManagementAPI.Core.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Core\obj\Debug\net7.0\TaskManagementAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Core\obj\Debug\net7.0\TaskManagementAPI.Core.dll
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Core\obj\Debug\net7.0\refint\TaskManagementAPI.Core.dll
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Core\obj\Debug\net7.0\TaskManagementAPI.Core.pdb
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Core\obj\Debug\net7.0\ref\TaskManagementAPI.Core.dll
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Core\bin\Debug\net7.0\TaskManagementAPI.Model.dll
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Core\bin\Debug\net7.0\TaskManagementAPI.Model.pdb
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Core\obj\Debug\net7.0\TaskManagementAPI.Core.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\TaxAPI\TaxManagementAPI\TaskManagementAPI.Core\obj\Debug\net7.0\TaskManagementAPI.Core.csproj.CopyComplete

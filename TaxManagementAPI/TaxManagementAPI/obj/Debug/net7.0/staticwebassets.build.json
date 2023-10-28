@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oEUueudxKR1eMbPMga+IhrgRofVzxTe5qWSzCodObO4=",
+  "Source": "TaxManagementAPI",
+  "BasePath": "_content/TaxManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
